@@ -1,13 +1,13 @@
-Flask= 2.0.1
-Numpy=1.17.4
-Jinja=3.0.1
-Click= 8.0.1
-Werkzeug=2.0.1
-itsdangerous=2.0.1
-colorama =0.4.4
-MarkupSafe=2.0.1
-Gunicorn=20.1.0
-xgboost=1.4.2
-scikit-learn=0.24.2
-numpy=1.20.3
-joblib=1.0.1
+Flask== 2.0.1
+Numpy==1.17.4
+Jinja==3.0.1
+Click==8.0.1
+Werkzeug==2.0.1
+itsdangerous==2.0.1
+colorama==0.4.4
+MarkupSafe==2.0.1
+Gunicorn==20.1.0
+xgboost==1.4.2
+scikit-learn==0.24.2
+numpy==1.20.3
+joblib==1.0.1
